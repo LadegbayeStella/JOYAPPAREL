@@ -24,6 +24,6 @@ section{
     font-size: 30px;
 }
 
-a:hover{
-    color: rgb(250, 87, 93);
+#list:hover{
+    color: rgb(243, 122, 126);
 }
