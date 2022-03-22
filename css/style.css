@@ -9,9 +9,7 @@ body{
 #list {
 color: whitesmoke;
 }
-a {
-    text-decoration: none;
-}
+
 li {
     margin: 25px;
 
@@ -26,4 +24,6 @@ section{
     font-size: 30px;
 }
 
-
+a:hover{
+    color: rgb(250, 87, 93);
+}
