@@ -1,0 +1,29 @@
+ img{
+    width: 70px;
+ 
+}
+body{
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#list {
+color: whitesmoke;
+}
+a {
+    text-decoration: none;
+}
+li {
+    margin: 25px;
+
+}
+section{
+    text-align: center;
+    margin-top: 400px;
+    margin-left: 10px;
+    float: right;
+    background-color: black;
+    color: whitesmoke;
+    font-size: 30px;
+}
+
+
